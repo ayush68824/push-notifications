@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-clone-online-demo",
+  "version": "1.0.0",
+  "main": "expo-snack-demo.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.20",
+    "expo-notifications": "^0.31.4",
+    "expo-device": "^7.1.4",
+    "expo-constants": "^17.1.7",
+    "react": "19.0.0",
+    "react-native": "0.79.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+} 
